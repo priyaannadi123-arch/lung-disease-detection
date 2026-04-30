@@ -2,3 +2,5 @@ streamlit
 gdown
 numpy
 pillow
+tf-keras
+tensorflow-cpu==2.16.2
